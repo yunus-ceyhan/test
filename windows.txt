@@ -1,0 +1,6 @@
+Add-AppxPackage -Register C:\WSA-with-magisk-GApps-nano_2203.40000.1.0_x64_Release-Nightly\AppxManifest.xml
+
+Add-AppxPackage -Register C:\wsa\AppxManifest.xml
+
+Add-AppxPackage -Register C:\wsa2\AppxManifest.xml
+
